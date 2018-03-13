@@ -1,0 +1,122 @@
+
+hi just arisers .
+please add sreya 
+Megha Mariam added Sreya Sarah to the Hangout.
+48 mins
+hi
+hi
+hi 
+please share the username and password
+github account details.....
+eda...one doubt...how do you kow when alarm rings???
+who is doing sensing part??
+username:Meghamariambaby
+megha...alarm undakkande??????
+and password:justarisers4
+just login and see.....
+yup am thinking about it...
+did u sent the github account to sir?
+eda login terminal vazhi anno
+allenkil sreya azhachu thannathil koodi aaano
+d one i sent u
+yup i had sent
+what is the name of our repo
+have not created one....
+http://www.instructables.com/id/Custom-Alarm-Clock-with-notepad/
+check it out..urgent
+eda pravitha searcg github and there signin
+sorry search
+okk
+and then give the username and passwaord
+sory password
+okk
+eda...i made d alarm
+but... it is more like a timer
+yup and its in shell if am write
+ya...windows shell
+ok
+dimple which weight sensor are you using
+dude...snoozing ...someone do it na...ill check out counting by then
+is it using pressure or weight
+pressure sensors are more prefarable right?
+megha should i create our repo in github
+ya...cdats what sir said now
+cdats?
+repo name ?
+what should be the repo name?
+hack2018
+is that okay ?
+ok
+sreya pls check this 
+https://pypi.python.org/pypi/alarm/1.6
+for alarm inbuilt in python
+not able to find codes to incorporate  pressure sensor
+are u using ubuntu?
+sreya
+what was u r part
+repo created : hack2018
+dimple please give the variables you are using
+variables?
+actually will you please give the sample of the codes you have done
+im using windows
+megha...pls send your code so dat i can count d snoozes
+where is the springler placed 
+d code i sent your rings(sounds ) out after some changes
+what should i actually do?
+pachu..dats immaterial..
+what r u now doin?
+idon't know to doo
+*what to do
+wat happend?
+eda pressure senheyanulla code aanalo sor reset njan undakendc
+eniku pressure sensorinu vendiyulla code kitttiyilla
+http://www.maxentropy.net/stamp/SCP1000/tn46_c-code_example_for_scp1000-d01_rev_0.1_.pdf
+please visit the site and respond
+
+can we use it?
+njan ithum cheythirikuva
+dimple itho https://gist.github.com/pklaus/1378695
+eda sreya we don't have much time....
+ya...now??
+make d report pakka...ok???
+at dimple eda aa siteil ullathe c alle
+namal python alle cheyende
+okay
+is our readme file ready ?
+https://pypi.python.org/pypi/alarm/1.6
+anyomne in ubuntu..pls try it
+sreya we are in short of time.....
+were is our project right now?
+if the project description is ready i think its time to submitt it
+dude..u did not sent me d code...
+ i have done d alarm part
+which code??
+trying to count snooze
+ok
+let me try
+who is d one setting d alarm??activating it??
+yaar it was me
+but how to set it
+u send me u r code
+mail it
+who is doing the project description
+dimple u start with description with pachu
+my code not in python...im unable to use python...showing loads of syntax error...even for hello world
+me and sreya would try to complete the project
+yup so am too switching to c
+ok
+d one i made is in batch...as it is executable...converting to c
+something has gone wrong with my lap
+who is dealing with the chat history
+ok i will do it
+
+
+Send a message
+
+
+
+
+
+
+
+
